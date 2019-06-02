@@ -7,8 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Node js
 
-Make sure Node js and Node Package Manager (npm) is intalled.
-To install these visit https://nodejs.org/en/download/
+Make sure Node js and Node Package Manager (npm) is intalled. To install these please visit their website (https://nodejs.org/en/download/).
 
 In the project directory, you can run:
 
