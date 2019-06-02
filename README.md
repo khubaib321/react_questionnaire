@@ -9,6 +9,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Make sure Node js and Node Package Manager (npm) is intalled. To install these please visit the [website](https://nodejs.org/en/download/).
 
+Clone this Repository:
+### `git clone https://github.com/khubaib321/react_questionnaire.git`
+
 In the project directory, you can run:
 
 ### `npm install`
