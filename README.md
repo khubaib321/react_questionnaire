@@ -1,4 +1,5 @@
-Questionnaire System - Client side implementation in React.
+# react_questionnaire
+React Questionnaire - Frontend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
